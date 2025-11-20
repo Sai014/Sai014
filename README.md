@@ -3,9 +3,7 @@
 ## 👨‍💻 About Me
 I’m a motivated **Computer Science Engineer** with a strong foundation in programming, problem-solving, and software development.  
 Passionate about **AI, Cybersecurity, and Software Engineering**, I enjoy building projects that make a real-world impact.  
-
-- 🌱 Currently: Cyber Security Engineer at **Univate Solutions**  
-- 🔭 Previously: Junior Web Developer at **Numa Soft Technologies**  
+ 
 - 🎓 B.E. in Computer Science (CGPA: 9.05) from **Sir M. Visvesvaraya Institute of Technology**  
 - 💡 Interested in **Machine Learning, Web Development, and Cybersecurity**  
 - ⚡ Fun fact: I love participating in hackathons & solving real-world problems with tech!  
