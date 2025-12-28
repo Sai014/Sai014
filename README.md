@@ -2,10 +2,10 @@
 
 ## 👨‍💻 About Me
 I’m a motivated **Computer Science Engineer** with a strong foundation in programming, problem-solving, and software development.  
-Passionate about **AI, Cybersecurity, and Software Engineering**, I enjoy building projects that make a real-world impact.  
+Passionate about **Software Engineering and AI**, I enjoy building projects that make a real-world impact.  
  
 - 🎓 B.E. in Computer Science (CGPA: 9.05) from **Sir M. Visvesvaraya Institute of Technology**  
-- 💡 Interested in **Machine Learning, Web Development, and Cybersecurity**  
+- 💡 Interested in **Backend development and AI/ML**  
 - ⚡ Fun fact: I love participating in hackathons & solving real-world problems with tech!  
 
 ---
@@ -13,7 +13,7 @@ Passionate about **AI, Cybersecurity, and Software Engineering**, I enjoy buildi
 ## 🛠️ Technical Skills
 - **Programming Languages:** Python, C, C++, JavaScript  
 - **Databases:** MySQL, MongoDB  
-- **Web Development:** HTML, CSS, Node.js, Tkinter  
+- **Web Development:** HTML, CSS, Node.js, Express.js 
 - **Cloud Platforms:** Azure, AWS, Google Cloud Platform  
 - **AI/ML Tools & Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV  
 - **Developer Tools:** Git, VS Code, Jupyter Notebook  
@@ -34,9 +34,6 @@ Passionate about **AI, Cybersecurity, and Software Engineering**, I enjoy buildi
 ---
 
 ## 💼 Experience
-- **Cyber Security Engineer | Univate Solutions (06/2025 – Present)**  
-  - Conducted **VAPT** for web applications & networks using Burp Suite, Metasploit, Nmap, Wireshark.  
-  - Assisted in **ISO & SOC standards implementation**.  
 
 - **Junior Web Developer | Numa Soft Technology Pvt Ltd. (04/2024 – 06/2024)**  
   - Worked on **frontend development** with HTML, CSS.  
